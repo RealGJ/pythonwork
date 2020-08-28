@@ -1,0 +1,7 @@
+def abc (country):
+    print(country,"Zindabad")
+    print(country,"Paindabad")
+
+    print("we love",country)
+    print("we love",country)
+abc("Pakistan")
