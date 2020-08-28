@@ -1,0 +1,11 @@
+# Membership operators
+list=[1,2,4,5,7,8,9]
+print(5 in list)
+
+# Bitwise operators
+# 0-00
+# 1-01
+# 2-10
+# 3-11
+print(0 | 2)
+print(0 & 2)
